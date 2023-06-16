@@ -1,11 +1,11 @@
-About r-lisreltor
-=================
+About r-lisreltor-feedstock
+===========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-lisreltor-feedstock/blob/main/LICENSE.txt)
 
 Home: https://CRAN.R-project.org/package=lisrelToR
 
 Package license: GPL-2.0-only
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-lisreltor-feedstock/blob/main/LICENSE.txt)
 
 Summary: This is an unofficial package aimed at automating the import of LISREL output in R.  This package or its maintainer is not in any way affiliated with the creators of LISREL and SSI, Inc.
 
