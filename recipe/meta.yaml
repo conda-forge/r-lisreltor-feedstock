@@ -1,6 +1,5 @@
 {% set version = "0.3" %}
 {% set posix = 'm2-' if win else '' %}
-{% set native = 'm2w64-' if win else '' %}
 
 package:
   name: r-lisreltor
@@ -13,8 +12,7 @@ source:
   sha256: 6bbebbdd6f78ae5d503a4d53558c709233e6e94fe8206f62d5edca3d5b41b4a7
 
 build:
-  merge_build_host: true  # [win]
-  number: 0
+  number: 1
   noarch: generic
 
   rpaths:
